@@ -1,4 +1,4 @@
-# vault-export-0.10.0
+# vault-export
 <div id="top"></div>
 
 <!-- TABLE OF CONTENTS -->
