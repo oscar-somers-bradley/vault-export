@@ -18,7 +18,7 @@
 
 1. Clone the repo
    ```sh
-   git clone git@github.com:sky-uk/gottp-vault-migration.git
+git clone git@github.com:oscar-somers-bradley/vault-export.git
    ```
 2. build docker image
    ```sh
